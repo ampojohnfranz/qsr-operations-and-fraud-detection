@@ -20,4 +20,9 @@ An end-to-end data analytics and anomaly detection solution built for a 6-store 
 3. `QSR_Network_Operations.pbix`: The business intelligence layer for operational oversight.
 
 ## Dashboard Previews
-*(Insert your screenshot links here later)*
+
+### 1. Power BI Executive Dashboard
+![Power BI Dashboard](Power_BI_Dashboard_Snippet.jpg)
+
+### 2. POS Fraud Detection Audit (Excel)
+![Fraud Detection Report](POS_Fraud_Detection_Snippet.jpg)
